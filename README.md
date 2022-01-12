@@ -22,6 +22,7 @@
   - MySQL
   ## Preview
   ![Img](/images/preview.PNG)
+  ![Img](/images/preview2.PNG)
   ## Launch
   [Heroku](https://tech-blog-mvc-app.herokuapp.com/) 
   ## License
