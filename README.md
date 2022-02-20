@@ -1,7 +1,7 @@
 # Tech Blog
 
   ## Description
-  The goal of this project was to a build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' post as well. This applications follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, adn the express-session npm package for authentication. 
+  The goal of this project was to a build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers' post as well. This applications follows the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. 
   
   ## Table of Contents
   - [Usage](#usage)
